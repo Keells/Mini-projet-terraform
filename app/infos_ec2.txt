@@ -1,0 +1,1 @@
+PUBLIC IP: <IP>; ID: <ID>; AZ: us-east-1a
